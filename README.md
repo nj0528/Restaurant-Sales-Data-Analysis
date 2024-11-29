@@ -7,12 +7,11 @@ Cafe Ocean is a beachside restaurant. It wants to improve sales and provide the 
 
 **Results**
 
-Total Revenue:$9M.
-** **
-Average Order Value:$306M
-Total number of items sold:62141
-Total Orders:32422
-Average items per order:1.92
+Total Revenue:$9M**.**
+Average Order Value:$306M**.**
+Total number of items sold:62141**.**
+Total Orders:32422**.**
+Average items per order:1.92**.**
 
 **Recommendation**
 
