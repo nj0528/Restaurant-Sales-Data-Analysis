@@ -39,3 +39,6 @@ The goal is to uncover actionable insights that help improve sales performance a
 ---
 
 
+📎 Conclusion
+
+This analysis provides a data-driven foundation for Cafe Ocean to optimize operations, focus marketing efforts, and increase overall revenue. By aligning inventory and promotions with customer behavior, the restaurant can improve customer satisfaction and business performance.
