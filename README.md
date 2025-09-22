@@ -1,24 +1,41 @@
-**Restaurant-Sales-Analysis**
+# 🍽️ Restaurant Sales Analysis – Cafe Ocean
 
-**Introduction**
+## 📌 Introduction
 
+**Cafe Ocean** is a beachside restaurant striving to boost sales and enhance customer experience. This project analyzes the restaurant’s food sales data from the year **2020**, using **SQL** for data analysis and **Power BI** for insightful visualizations.
 
-Cafe Ocean is a beachside restaurant. It wants to improve sales and provide the best possible service to its customers. I will examine the restaurant's food sales data for the year 2020. I'll compile a report to help identify ways to increase food sales and improve productivity.SQL was utilized for analysis, and Power BI  for visualization. 
+The goal is to uncover actionable insights that help improve sales performance and optimize operations.
 
-**Results**
+---
 
-Total Revenue:$9M <br /> 
-Average Order Value:$306M <br /> 
-Total number of items sold:62141 <br /> 
-Total Orders:32422 <br /> 
-Average items per order:1.92 <br /> 
+## 📊 Tools Used
 
-**Recommendation**
+- **SQL** – Data extraction, transformation, and analysis  
+- **Power BI** – Interactive dashboards and visual storytelling
 
-The fact that meal orders and revenue peak on weekends, with lower sales during the week, suggests that most customers prefer dining out on weekends. The Ocean Special Shake stands out as the most popular item. To effectively manage the weekend influx, it's essential for the restaurant to ensure that raw supplies are fully stocked in advance. Additionally, to boost sales further, consider offering exclusive weekend discounts, particularly on the Ocean Special Shake, to encourage more purchases.
+---
 
+## 📈 Key Results
 
+- **Total Revenue:** \$9M  
+- **Average Order Value:** \$306  
+- **Total Items Sold:** 62,141  
+- **Total Orders:** 32,422  
+- **Average Items per Order:** 1.92  
 
+---
 
+## 💡 Recommendations
+
+- **Weekend Focus:** Sales and meal orders peak on weekends, indicating customer preference for dining out during that time.  
+  ➤ *Action:* Prepare for higher weekend traffic by ensuring sufficient raw material stock and staff availability.
+
+- **Top-Selling Item:** The **Ocean Special Shake** is the most popular menu item.  
+  ➤ *Action:* Offer **exclusive weekend discounts** on this item to drive repeat sales and attract new customers.
+
+- **Midweek Strategy:** Midweek sales dip significantly.  
+  ➤ *Action:* Introduce midweek specials or loyalty incentives to increase weekday footfall.
+
+---
 
 
